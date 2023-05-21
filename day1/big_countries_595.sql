@@ -1,5 +1,3 @@
-
-
 SELECT 
   name, 
   population, 

@@ -1,7 +1,2 @@
-
-
-SELECT 
-  name, 
-  population, 
-  area
-FROM World where area >= 3000000 or population >= 25000000
+SELECT product_id FROM Products
+WHERE low_fats = 'Y' and recyclable = 'Y'
