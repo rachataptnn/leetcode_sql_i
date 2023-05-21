@@ -1,7 +1,11 @@
-# leetcode_sql_i
+### leetcode_sql_i
+<br/>
 
-today i have willing to develop SQL skills
+today i have willing to develop SQL skills and decide that i will practice on this site
+<br/>
 
-https://leetcode.com/study-plan/sql/
+    https://leetcode.com/study-plan/sql/
 
-please suggest me kind soul 🥰
+*if you see any weird stuff*
+
+*please suggest me you kind soul* 🥰
